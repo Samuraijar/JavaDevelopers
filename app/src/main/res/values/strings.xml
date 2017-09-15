@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaDevelopers</string>
+    <string name="internet">No internet connection, please enable internet connection</string>
+</resources>
